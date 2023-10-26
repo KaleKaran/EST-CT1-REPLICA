@@ -2,7 +2,7 @@
 This a Python based project, in which I have made a program that would read the questions along with answers from the excel file and make a UI that would be a kind-of replica of Online MCQ exam. (CT1)
 
 ## Installation
-1.Clone the repository: https://github.com/KaranKale-69/ESY-CT1-REPLICA.git  
+1.Clone the repository: (https://github.com/KaleKaran/ESY-CT1-REPLICA.git)  
 
 2.Change into the project directory: cd quiz-project  
 
