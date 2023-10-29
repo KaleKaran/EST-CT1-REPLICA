@@ -4,15 +4,25 @@ This a Python based project, in which I have made a program that would read the 
 ## Installation
 1.Clone the repository: (https://github.com/KaleKaran/EST-CT1-REPLICA.git)  
 
-2.Change into the project directory: cd quiz-project  
+2.Change into the project directory:  
+```bash
+  cd quiz-project
+```  
 
-3.Install the necessary dependencies: pip install -r requirements.txt  
+3.Install the necessary dependencies:  (Make sure that you are in cmd in the right path)
+```bash
+  pip install -r requirements.txt
+```  
 
 =-=-=-=-=-OR-=-=-=-=-=
       
 1.Download the repo as zip file, then extract in your local system
 
-2.Install the necessary dependencies: pip install -r requirements.txt
+2.Install the necessary dependencies: (Make sure that you are in cmd in the right path)
+
+```bash
+  pip install -r requirements.txt
+```
 
 ## Guide
 If you want to Run a quick test you can run: 20_Q TEST_UI_Ver.py  
